@@ -1,0 +1,15 @@
+/**index.wxss**/
+input{
+  border-bottom: 1px solid blue;
+  margin: 20px 0;
+  background-color: rgb(226, 191, 33);
+}
+button{
+  background-color: red;
+  color:white;
+  margin-top: 20px;
+}
+
+
+
+
